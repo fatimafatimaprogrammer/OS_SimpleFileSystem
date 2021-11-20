@@ -1,10 +1,3 @@
-'''
-urooj fatima raza
-zainab asif
-kainat sajid
-awais bin adil
-'''
-
 
 import sys
 from multipledispatch import dispatch
